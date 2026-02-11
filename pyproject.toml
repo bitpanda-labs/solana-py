@@ -29,8 +29,8 @@ httpx = "^0.28.0"
 PyNaCl = "^1.4.0"
 requests = "^2.24"
 typing-extensions = ">=4.2.0,<5.0.0"
-cachetools = "^4.2.2"
-types-cachetools = "^4.2.4"
+cachetools = "^5.5.0"
+types-cachetools = "^5.5.0"
 
 [tool.poetry.dev-dependencies]
 black = "^21.9b0"
